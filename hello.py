@@ -1,2 +1,2 @@
 print ("hello pals of the world!")
-print ("Python is hard...")
+print ("Python is hard....")
